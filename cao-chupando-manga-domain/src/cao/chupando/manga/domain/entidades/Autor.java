@@ -29,5 +29,4 @@ public class Autor {
         return country;
     }
     
-    
 }
